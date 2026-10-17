@@ -1,0 +1,23 @@
+【繁體中文】
+如果讓五、六年級的孩子當一座城市的市長，他們會怎麼蓋？
+
+「築城物語 CityBloom」是我為永續城市 PBL 做的網頁城市模擬遊戲。孩子要自己規劃道路、住宅、商業區和工廠，再選擇要蓋燃煤、燃氣、太陽能、風力還是儲能電廠。城市長大以後，碳排放、綠電比例、空氣品質都會跟著改變，畫面上還能看到污染隨著東北季風、西南季風往哪裡飄。
+
+最新版本加入了氣候變遷與都市熱島：天氣以台南近 30 年的氣候資料為基準，暖化程度依照 IPCC 的三種排放情境。孩子會發現，市中心夏天的地表比郊區熱好幾度，越熱越開冷氣、冷氣又讓城市更熱。種行道樹、蓋公園、做綠屋頂和冷屋頂，能不能把城市降溫？這正好可以連結自然科的能源、環境與天氣單元。
+
+不用安裝，電腦和平板的瀏覽器都能玩，歡迎老師們帶到課堂試試看：
+https://prayer168.github.io/city-bloom/
+
+#永續城市 #PBL #自然科學
+
+【English】
+What would fifth and sixth graders build if they were mayor of their own city?
+
+CityBloom is a browser-based city-building game I made for a sustainable-city PBL unit. Students lay out roads, homes, shops and factories, then choose between coal, gas, solar, wind and battery storage to power it all. As the city grows, they can watch its carbon emissions, renewable share and air quality change, and even see pollution drift with Taiwan's seasonal monsoon winds.
+
+The newest version adds climate change and the urban heat island. The weather is based on 30 years of climate records from Tainan, and warming follows the three IPCC emission scenarios. Students discover that the city center runs several degrees hotter than the countryside in summer, and that more air conditioning only makes it hotter. Can street trees, parks, green roofs and cool roofs bring the temperature down?
+
+No installation needed. It runs in the browser on computers and tablets. Take a look here:
+https://prayer168.github.io/city-bloom/
+
+#SustainableCities #PBL #ScienceEducation
